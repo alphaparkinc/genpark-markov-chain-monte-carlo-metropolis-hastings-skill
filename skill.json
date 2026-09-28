@@ -1,0 +1,19 @@
+{
+  "name": "genpark-markov-chain-monte-carlo-metropolis-hastings-skill",
+  "version": "1.0.0",
+  "description": "Metropolis-Hastings Markov Chain Monte Carlo (MCMC) sampler with Gaussian proposals and diagnostic statistics",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "mcmc",
+    "metropolis-hastings",
+    "bayesian-inference",
+    "monte-carlo",
+    "markov-chains",
+    "posterior-sampling",
+    "python-standard-library",
+    "agent-skills",
+    "probabilistic-programming",
+    "acceptance-probability"
+  ]
+}
