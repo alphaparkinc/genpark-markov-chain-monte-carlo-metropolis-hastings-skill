@@ -1,0 +1,5 @@
+name: genpark-markov-chain-monte-carlo-metropolis-hastings-skill
+description: Metropolis-Hastings Markov Chain Monte Carlo (MCMC) sampler with Gaussian proposals and diagnostic statistics
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
